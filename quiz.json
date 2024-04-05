@@ -1,0 +1,22 @@
+{
+    "questions": [
+        {
+            "topic": "School", 
+            "text": "Which is the best subject?", 
+            "answerList": ["POS", "DBI", "NVS", "Ethics"],
+            "correctAnswerIndex": 0
+        },
+        {
+            "topic": "Programming", 
+            "text": "Which is the oldest programming language?", 
+            "answerList": ["Cobol", "JavaScript", "Fortran", "C"],
+            "correctAnswerIndex": 2
+        },
+        {
+            "topic": "Allgemeinwissen",
+            "text": "Was ist die Hauptstadt von Frankreich?",
+            "answerList": ["Berlin", "Rom", "Paris", "London"],
+            "correctAnswerIndex": 2
+        }
+    ]
+}
